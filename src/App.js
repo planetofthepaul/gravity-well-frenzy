@@ -357,10 +357,7 @@ function App() {
               <div className="mt-8 p-6 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg text-center text-white">
                 <h3 className="text-2xl font-semibold mb-4">Gravity Well Frenzy: A Cosmic Thrill Ride!</h3>
                 <p className="mb-4">
-                  Dive into a mesmerizing universe where gravity is your playground! Gravity Well Frenzy challenges you to navigate a pulsating energy ball through a dynamic arena filled with swirling gravity wells and a cunning AI opponent.
-                </p>
-                <p className="mb-4">
-                  🌀 Master Gravity: Use the unpredictable pull of gravity wells to outmaneuver your opponent and score epic points!
+                🌀 Dive into a mesmerizing universe where gravity is your playground! Gravity Well Frenzy challenges you to navigate through a dynamic arena filled with trajectory-altering gravity wells and a cunning AI opponent.
                 </p>
                 <p className="text-lg font-bold text-yellow-300">
                   Ready to bend the laws of physics and claim your place among the stars?

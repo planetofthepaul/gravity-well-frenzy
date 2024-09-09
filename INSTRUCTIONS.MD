@@ -87,3 +87,38 @@ Copygit push origin main
 
 Now, deploy to GitHub Pages using the npm script we set up earlier:
 Copynpm run deploy
+
+
+
+Certainly! I'll provide you with a step-by-step guide for the Git commands and deployment process. This will update both your GitHub repository and deploy the changes to GitHub Pages.
+
+Open your terminal or command prompt.
+Navigate to your project directory (if you're not already there):
+Copycd path/to/gravity-well-frenzy
+
+Check which files have been changed:
+Copygit status
+
+Stage all your changes:
+Copygit add .
+
+Commit your changes with a descriptive message:
+Copygit commit -m "Brief description of your changes"
+
+Push your changes to GitHub:
+Copygit push origin main
+
+Deploy to GitHub Pages:
+Copynpm run deploy
+
+
+This last command (npm run deploy) will build your React app and push it to the gh-pages branch of your repository, which will update your live site.
+
+Wait a few minutes, then visit your GitHub Pages URL to see the updated game:
+https://planetofthepaul.github.io/gravity-well-frenzy
+
+Remember:
+
+Always save your files before running these commands.
+You can use git status at any point to check the state of your changes.
+If you make more changes, repeat steps 3-7 to update and deploy again.
