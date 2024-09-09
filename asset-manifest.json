@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gravity-well-frenzy/static/css/main.8e55ae6e.css",
-    "main.js": "/gravity-well-frenzy/static/js/main.764a506b.js",
+    "main.js": "/gravity-well-frenzy/static/js/main.45176da2.js",
     "static/js/453.6a69d048.chunk.js": "/gravity-well-frenzy/static/js/453.6a69d048.chunk.js",
     "index.html": "/gravity-well-frenzy/index.html",
     "main.8e55ae6e.css.map": "/gravity-well-frenzy/static/css/main.8e55ae6e.css.map",
-    "main.764a506b.js.map": "/gravity-well-frenzy/static/js/main.764a506b.js.map",
+    "main.45176da2.js.map": "/gravity-well-frenzy/static/js/main.45176da2.js.map",
     "453.6a69d048.chunk.js.map": "/gravity-well-frenzy/static/js/453.6a69d048.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e55ae6e.css",
-    "static/js/main.764a506b.js"
+    "static/js/main.45176da2.js"
   ]
 }
