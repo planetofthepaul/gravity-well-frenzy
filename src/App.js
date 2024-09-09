@@ -362,15 +362,6 @@ function App() {
                 <p className="mb-4">
                   🌀 Master Gravity: Use the unpredictable pull of gravity wells to outmaneuver your opponent and score epic points!
                 </p>
-                <p className="mb-4">
-                  🎮 Ever-Changing Battlefield: Each match brings a unique constellation of gravity wells, keeping you on your toes and testing your adaptability.
-                </p>
-                <p className="mb-4">
-                  🏆 Daily Challenges: Push your skills to the limit with new objectives every day, climbing the ranks to become the ultimate Gravity Master!
-                </p>
-                <p className="mb-4">
-                  🎵 Cosmic Soundscape: Feel the pulse of the universe with our immersive audio design, reacting to every collision, score, and gravity shift.
-                </p>
                 <p className="text-lg font-bold text-yellow-300">
                   Ready to bend the laws of physics and claim your place among the stars?
                 </p>
