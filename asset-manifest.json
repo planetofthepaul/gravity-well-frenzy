@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gravity-well-frenzy/static/css/main.856d8ba7.css",
+    "main.js": "/gravity-well-frenzy/static/js/main.764a506b.js",
+    "static/js/453.6a69d048.chunk.js": "/gravity-well-frenzy/static/js/453.6a69d048.chunk.js",
+    "index.html": "/gravity-well-frenzy/index.html",
+    "main.856d8ba7.css.map": "/gravity-well-frenzy/static/css/main.856d8ba7.css.map",
+    "main.764a506b.js.map": "/gravity-well-frenzy/static/js/main.764a506b.js.map",
+    "453.6a69d048.chunk.js.map": "/gravity-well-frenzy/static/js/453.6a69d048.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856d8ba7.css",
+    "static/js/main.764a506b.js"
+  ]
+}
